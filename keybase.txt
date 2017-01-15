@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/bret_martin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bam.miranda.org
+  * I am bret_martin (https://keybase.io/bret_martin) on keybase.
+  * I have a public key with fingerprint F01B A678 1C35 13F6 F2AD  B4BD 7338 46C6 3947 FD88
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010108e41a91581f70745cd87b4467946f0c72902e081ee626fef70ae749590974d60a",
+            "fingerprint": "f01ba6781c3513f6f2adb4bd733846c63947fd88",
+            "host": "keybase.io",
+            "key_id": "733846c63947fd88",
+            "kid": "010108e41a91581f70745cd87b4467946f0c72902e081ee626fef70ae749590974d60a",
+            "uid": "87835b7d9284fd0d0729a2971856ae19",
+            "username": "bret_martin"
+        },
+        "service": {
+            "hostname": "bam.miranda.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484499937,
+    "expire_in": 157680000,
+    "prev": "6fdcb2b82dc06be8f7c16d5c80c2a19948e7ceee3c5727115493db769bc0c235",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNMAnicrZJtUBVVGMch4hIwiNgMLxPjyGZqAnd29+7LWQoHkBQVsri8OJN12Zez
+uMLdvexdbnCRlAq1a3FLAyedFDKcRhAzoQGVeFHQhJKMBoNwwIohQ2nIZq7JS3uZ
+/NbHzvlw5pzn9/+f53nmuRzi5xPkawcbepmNc/t9+7o+LvbZVtYwXoZwilCKJJQh
+BXDxgIUCtGuWAklAEhAU0zeABMYyGAkwkUZpguQFQHMEQdEMQYkoT+MMikMUYBBS
+OCVCHWIhTTAkgzI0IVAoi8QhoiTnQ9WmSrKm24ooxrEUDTDeRGImkRJxVuAITqBN
+JkBQPGViCFoUANCFOxS7V6Enx7F2aJQU/U2/WBbT+w/+f867eNEO0MBEcrTA4IAQ
+BVRAdS2LMzQGSIqFGOMF7VCVWSvUaU6FmsXKqpokI+VxiB5wSDz09tZbzCOItRqt
+ksrKAmtU1HzdwaYqmsIrhXpwh6bZErxardTmhV+HnOVfGwsnyYLeTF3ggKpdUmQk
+AdNJXpO8vhgBCIJhGBMdh8ASm6RCi+QlSJoCqL6830CHbkmJAs/hHMAFHqU4CESa
+xyiB5AHK4yzGMASANA8hNPEkjdMYRhKMSeBoiuF4nTCRiLewIlnRvTE9TzZf97RL
++TKrFasQKe/u2v64j2+Qj8H/Me+U+QQFLn00e25z6IJzagFvmV1em2MbGog9VDkA
++cNRT01lHsvoRWt2JxcaOlKmba5ls6Nfjh+VibWXqnwPbT4Itj7TfW1iywzpSWk4
+s1l65UFqp7NpX9v8mxVaXfm21k3nX1sV8MBZeZwwjC17eeIHszM7+rkDc6n12oWf
+bzvkt/bOXzFmUqfzCjNi85xvj16tfvV+QXJlL0jqDxTaQ+orPb7hu3OXlHgM14sC
+/zxxujryi71N5o1VEWmeiwOff81u2O43k/rbeGPIyORsUnet+IFytse/djwmWplv
+H4kczv4jN/Nc9/Fr5vV73qvvBZ5WDnX/8r01HquIaV/90pWH5pODn/Z/kjZUs3N+
+1WCY5prrih9/ut3jl0VezFUTR27W0UPBd9dluW7mthQlv3t+dChseNfz8esspa0B
+z2bGNIw2V7qbldWhAUfDrlYT01rIE2eL6zOObAmPOtHZMVnzRsytD+939Q+AFxKz
+jYbLNZcy8m5MRu2adq34u27idnwJfj2fSe9ZHtpWJFBrxlKKJ/vvrQw95klv474Z
+PDLct+9Xt3HP+o6IzoUzaqz/4Vvvd89ENDtWnNv/Dr+marKHCJ560hDeaD74Yk76
+DdF6amVL40LDd6cWKpJO/rX22+YfL+TsDBKWuCLn09KZ3x13OprSkE2JfTlbD9yN
+nqn2zwrma++4l/700di96SGP8yv3w9n+z/4BxxDL0A==
+=ysGH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bret_martin
+
+==================================================================
