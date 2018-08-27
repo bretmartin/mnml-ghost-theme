@@ -1,5 +1,5 @@
 default:
-	cd ${HOME}/dev \
+	cd ${HOME}/Documents/Personal/Development \
 	&& zip \
 		--exclude '*git*' \
 		--recurse-paths \
